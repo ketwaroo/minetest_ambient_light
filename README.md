@@ -6,9 +6,9 @@ forked from https://github.com/MikeRedwood/ambient_light because seemed abandone
 
 ## Configuration
 
-You can change ambient light levels via setting `ambient_light = X` in your minetest.conf file.
+You can change ambient light levels via setting `light_level = X` in your minetest.conf file.
 
-Or configure via all settings.
+Or configure via `all settings`.
 
 ## Changes
 
